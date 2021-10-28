@@ -1,0 +1,7 @@
+*.packages
+*.json
+*.lock
+*.xml
+*.iml
+
+.dart_tool
